@@ -67,7 +67,7 @@ plt.title("Hours vs Scores(Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
+```
 ## Output:
 ### df.head()
 ![ml21](https://user-images.githubusercontent.com/118707332/229969599-4a9566bf-5f36-4449-980b-bbef38f2f67e.png)
